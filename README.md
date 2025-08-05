@@ -28,6 +28,12 @@ Highlighted platform features and benefits
 
 Featured or trending courses for quick discovery
 
+#output
+
+![Image](https://github.com/user-attachments/assets/72716c4d-88c0-46f8-b961-81bf006bf92f)
+
+
+
 📊 Dashboard
 
 Upcoming deadlines
@@ -75,7 +81,7 @@ Visual showcase of learner achievements
 🛠️ Next Steps – Prototype testing / Development
 
 
-#Output
+
 
 
 
